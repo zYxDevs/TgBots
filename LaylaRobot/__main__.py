@@ -53,7 +53,8 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, my name is {}! ❣️ 
-i am a group management bot I can help you to manage your group
+I am a group management bot I can help you to manage your group
+I can give you lewd and nsfw pictures too ❣️ 
 You can find my list of available commands with /help
 
 """
@@ -76,7 +77,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/877e80353c3b5c3890089.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/8071c20ede9057ac84bd4.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Supporting him; [Hero](t.me/Yoga_CIC)"""
