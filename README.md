@@ -195,4 +195,4 @@ The bot is based on the original work done by [PaulSonOfLars](https://github.com
 
 
 
-## [OWNER](http://t.me/Yoga_CIC)
+## [OWNER REPO](http://t.me/Yoga_CIC)
